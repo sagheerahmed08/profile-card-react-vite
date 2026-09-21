@@ -12,36 +12,6 @@ function App() {
         github="https://github.com/your-username"
         linkedin="https://www.linkedin.com/in/your-username"
       />
-      <div id="spacer">
-      </div>
-      <ProfileCard
-        name="Sagheer Ahmed"
-        role="Data Scientist"
-        location="Chennai"
-        image={profileImg}
-        github="https://github.com/your-username"
-        linkedin="https://www.linkedin.com/in/your-username"
-      />
-      <div className="app">
-      <ProfileCard
-        name="Sagheer Ahmed"
-        role="Data Scientist"
-        location="Chennai"
-        image={profileImg}
-        github="https://github.com/your-username"
-        linkedin="https://www.linkedin.com/in/your-username"
-      />
-      <div>
-      </div>
-      <ProfileCard
-        name="Sagheer Ahmed"
-        role="Data Scientist"
-        location="Chennai"
-        image={profileImg}
-        github="https://github.com/your-username"
-        linkedin="https://www.linkedin.com/in/your-username"
-      />
-    </div>
     </div>
     
   );
